@@ -14,7 +14,6 @@ name
 - k&r
 - feylec
 - structcs
-- topnet
 - csapp
 
 
